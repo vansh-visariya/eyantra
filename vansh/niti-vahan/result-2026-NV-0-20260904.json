@@ -1,0 +1,28 @@
+{
+    "generate": true,
+    "os_info": {
+        "name": "Linux",
+        "version": "#138~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug  7 13:43:15 UTC ",
+        "machine": "x86_64"
+    },
+    "python": {
+        "installed": true,
+        "version": "3.10.12"
+    },
+    "numpy": {
+        "installed": true,
+        "version": "2.2.6"
+    },
+    "opencv": {
+        "installed": true,
+        "version": "5.0.0"
+    },
+    "coppeliasim": {
+        "installed": true,
+        "path": "/home/vansh/Downloads/CoppeliaSim_Edu_V4_10_0_rev0_Ubuntu22_04/coppeliaSim.sh"
+    },
+    "kp_value": 3.0,
+    "meta": {
+        "evaluation_time": 208.2219054698944
+    }
+}
